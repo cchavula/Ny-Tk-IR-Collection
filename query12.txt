@@ -1,0 +1,18 @@
+<top>
+
+<num> Number: 12
+<title> making a child comfortable when being examined by a doctor 
+
+<desc> Description: 
+making a child comfortable when being examined by a doctor 
+<narr> Narrative: 
+A relevant document must have ways of making a child comfortable when being examined by a doctor at the hospital. 
+
+<query> Citumbuka: ukhaliro uwemi na mwana pala taluta ku chipatala
+<query> Chichewa: kusamalira mwana ku chipatala
+<query> English: making a child feel comfortable during a hospital visit
+ 
+</top>
+
+		
+

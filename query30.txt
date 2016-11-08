@@ -1,0 +1,13 @@
+<top>
+
+<num> Number: 30
+<title> Noah and flood
+
+<desc> Description: the story of noah and the great flood
+<narr> Narrative: A relevant document must talk about Noah and the great flood. 
+
+<query> Citumbuka: nowa na maji gha kusefukila 
+<query> Chichewa: nowa ndi madzi osefukila
+<query> English: Noah and the flood
+ 
+</top>

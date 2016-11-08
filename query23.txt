@@ -1,0 +1,19 @@
+<top>
+
+<num> Number: 23
+<title>Barries to girl education
+
+<desc> Description: discuss barriers to education for girls
+<narr> Narrative: 
+A relevant document should discuss the barriers to education for girls.
+
+<query> Citumbuka: vyapinga masambiro gha wasungwana
+<query> Chichewa: zopinga maphunziro a atsikana
+<query> English: Barriers to girls education
+ 
+</top>
+
+
+	
+	
+

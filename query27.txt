@@ -1,0 +1,15 @@
+<top>
+
+<num> Number: 27
+<title> repenting and accepting Jesus
+
+<desc> Description: 
+Discuss how to repent and accept Jesus.
+<narr> Narrative: 
+A relevant document must discuss how to repent and accept Jesus. 
+
+<query> Citumbuka: kulapa na kupokela yesu
+<query> Chichewa: kulapa ndi kulandila yesu
+<query> English: repent and accept Jesus
+ 
+</top>

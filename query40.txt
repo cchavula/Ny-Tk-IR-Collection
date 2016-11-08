@@ -1,0 +1,14 @@
+<top>
+
+<num> Number: 40
+<title> God and forgiveness
+
+<desc> Description: Describes God and his forgiveness
+<narr> Narrative: 
+A relevant document must talk about Gods forgiveness. 
+
+<query> Citumbuka: kugowokeleka na chiuta
+<query> Chichewa: kukhululukidwa ndi mulungu
+<query> English: God and forgiveness
+ 
+</top>

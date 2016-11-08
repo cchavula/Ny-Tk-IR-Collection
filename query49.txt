@@ -1,0 +1,14 @@
+<top>
+
+<num> Number: 49
+<title> modest dressing
+
+<desc> Description: discuss issues about dressing
+<narr> Narrative: 
+A relevant document should discuss the issue of modest dressing
+
+<query> Citumbuka:kuvwala makola
+<query> Chichewa:kuvala bwino
+<query> English:modest dressing
+ 
+</top>

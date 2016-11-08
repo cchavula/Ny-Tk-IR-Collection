@@ -1,0 +1,14 @@
+<top>
+
+<num> Number: 44
+<title>eating a balanced diet
+
+<desc> Description: Discuss eating a balanced diet
+<narr> Narrative: 
+A relevant document should discuss how and the benefits of eating a balanced diet
+
+<query> Citumbuka:kulya vyakulya va magulu
+<query> Chichewa: kudya zakukudya za magulu
+<query> English: eating a balanced diet
+ 
+</top>

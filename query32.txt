@@ -1,0 +1,14 @@
+<top>
+
+<num> Number: 32
+<title> football match between Bafanabafana and Niger in 2012 World cup qualifier
+
+<desc> Description: story about the game between Bafana bafana and Niger in 2012 World cup qualifier
+<narr> Narrative: 
+A relevant document should talk about the game between Bafana bafana and Niger in 2012 World cup qualifier
+
+<query> Citumbuka: bola la pakati pa bafanabafana na niger mu 2012 kuluta ku world cup
+<query> Chichewa: :mpira wa pakati pa bafanabafana ndi niger mu 2012 kupita ku world cup
+<query> English:  football match between Bafanabafana and Niger 2012 World cup qualifier
+ 
+</top>

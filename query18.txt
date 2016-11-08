@@ -1,0 +1,18 @@
+<top>
+
+<num> Number: 18 
+<title> cooking meat
+
+<desc> Description: 
+Identify ways or methods for how to cook any meat.
+
+<narr> Narrative: 
+A relevant document must talk about things related to cooking meat. e.g. ways of cooking meat such as beef, chicken, goat etc. Any document talking about cooking meat is relevant. Documents which talk about cooking but does not include anything about meat is irrelevant.
+
+<query> Citumbuka: kuphika nyama
+<query> Chichewa: kuphika nyama
+<query> English: cooking meat
+ 
+</top>
+
+

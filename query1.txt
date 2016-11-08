@@ -1,0 +1,18 @@
+<top>
+
+<num> Number: 1 
+<title> children hygiene
+
+<desc> Description: 
+Identify ways or methods for ensuring the hygiene of children; importance of hygiene for children. The dangers of not keeping children hygiene.
+
+<narr> Narrative: 
+A relevant document must talk about anything related to the hygiene of children. e.g. ways of keeping children clean, the dangers of keeping the sorroundings dirty and the benefits of keeping children clean.
+
+<query> Citumbuka: ukhondo pa bana
+<query> Chichewa: ukhondo pa ana
+<query> English: children hygiene
+ 
+</top>
+
+

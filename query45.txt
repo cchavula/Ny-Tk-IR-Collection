@@ -1,0 +1,17 @@
+<top>
+
+<num> Number: 45
+<title> worshipping God in Africa
+
+<desc> Description: 
+Identify how people in Africa worship
+<narr> Narrative: 
+A relevant document must identify and discuss any methods people in africa worship God. 
+
+<query> Citumbuka: kusopa Ciuta mu Afrika	
+<query> Chichewa: kupembedza Mulungu mu Afrika
+<query> English: worshipping God in Africa
+ 
+</top>
+
+

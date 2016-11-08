@@ -1,0 +1,13 @@
+<top>
+
+<num> Number: 31
+<title> death of Jesus on the cross 
+
+<desc> Description: Discuss about the death of Jesus on the cross
+<narr> Narrative: A relevant document should discuss the death of Jesus on the cross
+
+<query> Citumbuka: ifwa ya yesu pamphinjika
+<query> Chichewa: imfa ya yesu pamtanda
+<query> English: death of Jesus on the cross
+ 
+</top>

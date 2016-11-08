@@ -1,0 +1,15 @@
+<top>
+
+<num> Number: 43
+<title>fever
+
+<desc> Description: discuss how fever is caused
+
+<narr> Narrative: 
+A relevant document should talk about the issue of fever.
+
+<query> Citumbuka: kuwotcha kwa muthupi na vijekejeke
+<query> Chichewa:kuphwaya ndi kutetha kwa thupi
+<query> English: body fever
+ 
+</top>

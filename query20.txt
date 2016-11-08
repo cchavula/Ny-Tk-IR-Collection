@@ -1,0 +1,14 @@
+<top>
+
+<num> Number: 20
+<title> How to make syrup from tablets for kids
+
+<desc> Description: Discuss a method for making syrup for kids from tablets
+
+<narr> Narrative: 
+A relevant document must talk about how to make syrup for kids. 
+
+<query> Citumbuka: kupanga mankhwala ghamaji gha wana 
+<query> Chichewa: kupanga mankhwala a madzi a ana
+<query> English: how to make syrup medicine for children
+</top>

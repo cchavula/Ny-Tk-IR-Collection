@@ -1,0 +1,13 @@
+<top>
+
+<num> Number: 35
+<title> christmas 
+
+<desc> Description: Discuss about christmas
+<narr> Narrative: A relevant document should talk about christmas
+
+<query> Citumbuka: khirisimasi
+<query> Chichewa: khirisimasi
+<query> English:christmas
+ 
+</top>

@@ -1,0 +1,15 @@
+<top>
+
+<num> Number: 46
+<title> ancient teachings on religions
+
+<desc> Description: 
+Identify ancient teachings or religions
+
+A relevant document must discuss ancient religions and teachings. 
+
+<query> Citumbuka: visambizyo vakale pa vipepezo
+<query> Chichewa:ziphunzitso zakale pa chipembezo
+<query> English: ancient teachings on religions
+ 
+</top>

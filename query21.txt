@@ -1,0 +1,16 @@
+<top>
+
+<num> Number: 21 
+<title> How to breathe properly
+
+<desc> Description: Provide ways of breathing properly.
+
+
+<narr> Narrative: 
+A relevant document must give ways of breathing properly.
+
+<query> Citumbuka: kuthuta mwakwenelela 
+<query> Chichewa: kupuma moyenela
+<query> English: breathing properly
+ 
+</top>

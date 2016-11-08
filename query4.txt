@@ -1,0 +1,16 @@
+<top>
+
+<num> Number: 4 
+<title> Types of violence against girls
+
+<desc> Description: 
+Types of violent attacks on girls
+
+<narr> Narrative: 
+A relevant document must discuss types of violent attacks on girls. 
+
+<query> Citumbuka: kupewa ngozi za pa nsewu
+<query> Chichewa: mitundu ya nkhaza kwa wasungwana
+<query> English: Types of violence against girls
+ 
+</top>

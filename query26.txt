@@ -1,0 +1,14 @@
+<top>
+
+<num> Number: 26
+<title>teaching children the word of God
+
+<desc> Description: How to teach our chidren the word of God
+<narr> Narrative: 
+A relevant document should discuss methods on teaching children the word of God
+
+<query> Citumbuka: kusambizda wana mazgo gha chiuta 
+<query> Chichewa: kuphunzitsa ana mau a mulungu
+<query> English: teaching children the word of God
+ 
+</top>

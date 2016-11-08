@@ -1,0 +1,15 @@
+<top>
+
+<num> Number: 38 
+<title> getting homework help from family members
+
+<desc> Description: How to get homework help from home
+
+<narr> Narrative: 
+A relevant document must discuss how to get homework help from home 
+
+<query> Citumbuka: kuvwilika na babale pa kulemba ntchito ya kusukulu ku kunyumba
+<query> Chichewa: kuthandizidwa ndi abale pa kulemba ntchito ya kusukulu ku kunyumba
+<query> English: getting homework help from family members
+ 
+</top>

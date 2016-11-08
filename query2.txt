@@ -1,0 +1,18 @@
+<top>
+
+<num> Number: 2 
+<title> Names of seasons and months in Chitumbuka
+
+<desc> Description: 
+Identify the names of seasons or months in Chitumbuka
+
+<narr> Narrative: 
+A relevant document must give the names of months or seasons in Chitumbuka
+
+<query> Citumbuka: mayina a nthawi mu chaka mu chitumbuka
+<query> Chichewa: majina ya nyengo mu chaka mu chitumbuka
+<query> English: ypes of different times in a year in tumbuka
+ 
+</top>
+		
+

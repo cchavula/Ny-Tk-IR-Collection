@@ -1,0 +1,13 @@
+<top>
+
+<num> Number: 50
+<title> population of people in Japan
+
+<desc> Description: discuss about population of people in Japan 
+<narr> Narrative: 
+A relevant document should discuss the population of people in Japani
+<query>Tumbuka:chiwelengelo cha wanthu ku japani
+<query> Chichewa:chiwelengelo cha anthu ku japani
+<query> English: population of people in Japan
+ 
+</top>

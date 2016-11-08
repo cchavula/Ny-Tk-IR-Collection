@@ -1,0 +1,15 @@
+<top>
+
+<num> Number: 7
+<title>world wide reception of hybrid
+
+<desc> Description: 
+describe how hybrid seeds have been adopted in the world
+<narr> Narrative: 
+A relevant document should talk about how hybrid seeds have been adopted on the continent.
+
+<query> Citumbuka: kalandilidwe ka mbewu za hayibridi padziko lapansi
+<query> Chichewa: kalandilidwe ka mbewu za hayibridi padziko lapansi
+<query> English: world wide reception of hybrid seeds
+ 
+</top>

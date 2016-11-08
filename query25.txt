@@ -1,0 +1,15 @@
+<top>
+
+<num> Number: 25
+<title>abraham and sarah give birth in old age
+
+<desc> Description: Discuss the story of abraham and sara giving birth in old age
+
+<narr> Narrative: 
+A relevant document should talk about the the story of abraham and sara giving birth in old age.
+
+<query> Citumbuka:abrahamu na sarah wababa mwana ku uchekulu
+<query> Chichewa:abrahamu ndi sarah abeleka ku ukalamba
+<query> English: abraham and sara give birth in old age
+ 
+</top>

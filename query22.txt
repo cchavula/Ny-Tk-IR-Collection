@@ -1,0 +1,14 @@
+<top>
+
+<num> Number: 22 
+<title> Myths on avoiding pregnancies
+
+<desc> Description: Discuss myths on how to avoid pregnancy.
+
+<narr> Narrative: 
+A relevant document must discuss myths on how to avoid pregnancy. 
+
+<query> Citumbuka: vigomezgo pa kapewelo ka nthumbo
+<query> Chichewa: zikhulupirilo pa kapewedwe ka mimba
+<query> English: myths on avoiding pregnancy 
+</top>

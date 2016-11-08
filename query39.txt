@@ -1,0 +1,16 @@
+<top>
+
+<num> Number: 39
+<title>vomiting and  dehydration
+
+<desc> Description: Discuss vomiting and dehydration
+
+
+<narr> Narrative: A relevant document should talk about  vomiting and dehydration.
+
+
+<query> Citumbuka:kubokola na kumala maji muthupi
+<query> Chichewa:kusanza ndi kutha madzi mnthupi
+<query> English:vomiting and  dehydration
+ 
+</top>

@@ -1,0 +1,15 @@
+<top>
+
+<num> Number: 10
+<title> old age diseases
+
+<desc> Description: 
+Identify diseases that come because of old age
+<narr> Narrative: 
+A relevant document must identify and discuss any diseases that come because of old age. 
+
+<query> Citumbuka: matenda yakwiza ku uchekulu
+<query> Chichewa: matenda  aku ukalamba
+<query> English: old age diseases
+ 
+</top>

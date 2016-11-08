@@ -1,0 +1,15 @@
+<top>
+
+<num> Number: 6
+<title> eating healthily but inexpensive
+
+<desc> Description: 
+Identify methods that people can follow to eat well with less money.
+<narr> Narrative: 
+A relevant document should talk about eating good health food but with less money.
+
+<query> Citumbuka: kulya mwathanzi kweni vakutchipa
+<query> Chichewa: kudya mwathanzi koma zotchipa
+<query> English: eating healthily but inexpensive
+ 
+</top>

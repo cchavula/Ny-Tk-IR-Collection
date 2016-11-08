@@ -1,0 +1,15 @@
+<top>
+
+<num> Number: 11
+<title> signs of Tuberculosis TB
+
+<desc> Description: 
+Identify the symptoms or signs of Tuberculosis
+<narr> Narrative: 
+A relevant document must discuss the symptons of Tuberculosis. 
+
+<query> Citumbuka: Vimanyisyirovya chikhoso chikulu
+<query> Chichewa:zizindikilo za chifuwa chachikulu
+<query> English: signs of Tuberculosis TB
+ 
+</top>

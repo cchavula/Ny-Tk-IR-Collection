@@ -1,0 +1,15 @@
+<top>
+
+<num> Number: 15
+<title> kupima wodwala
+
+<desc> Description: 
+Identify ways and instruments for examining a sick person 
+<narr> Narrative: 
+A relevant document should have ways and instruments for examining a  sick person. This can be what questions to ask a sick person, what instruments can be used to examine a sick person and what procedures are used to examine a sick person.
+
+<query> Citumbuka: kupima mulwari
+<query> Chichewa: kupima wodwala
+<query> English:  Examining a sick person
+ 
+</top>

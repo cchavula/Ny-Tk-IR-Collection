@@ -1,0 +1,16 @@
+<top>
+
+<num> Number: 3 
+<title> How to avoid road accidents
+
+<desc> Description: 
+Identify ways of avoiding accidents on the road
+
+<narr> Narrative: 
+A relevant document must discuss methods of avoiding accidents on the road. 
+
+<query> Citumbuka: kupewa ngozi za pa nsewu
+<query> Chichewa: kupewa ngozi za pansewu
+<query> English: how to avoid road accidents
+ 
+</top>

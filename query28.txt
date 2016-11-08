@@ -1,0 +1,14 @@
+<top>
+
+<num> Number: 28
+<title> differences in choice of music between parents and their children
+
+<desc> Description: Discuss why parents and their children like different types of music
+<narr> Narrative: 
+A relevant document should discuss why parents and their children like different types of music . 
+
+<query> Citumbuka: kupambana kwa chisankho cha sumu pakati pa wana na wapapi
+<query> Chichewa:kusiyana pa chisankho cha nyimbo pakati pa ana ndi makolo
+<query> English: differences in the choice of music between children and parents
+ 
+</top>

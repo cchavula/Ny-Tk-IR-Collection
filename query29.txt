@@ -1,0 +1,15 @@
+<top>
+
+<num> Number: 29
+<title> Risks to the life of unborn babies
+
+<desc> Description: Risks to the unborn baby
+
+<narr> Narrative: 
+A relevant document must discuss risks of the life of the unborn baby. 
+
+<query> Citumbuka: vakutangwaniska moyo wa mwana pambele wandababike
+<query> Chichewa:Zowopseza moyo wamwana asanabadwe
+<query> English: risks to the life of an unborn baby	
+ 
+</top>

@@ -1,0 +1,15 @@
+<top>
+
+<num> Number: 13
+<title> taking care of teeth
+
+<desc> Description: 
+taking care of teeth
+<narr> Narrative: 
+A relevant document must have ways of taking care of teeth to avoid tooth decay or any other danger. 
+
+<query> Citumbuka: kupwelera mino
+<query> Chichewa: kusamala mano
+<query> English: taking care of teeth
+ 
+</top>

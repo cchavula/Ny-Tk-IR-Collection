@@ -1,0 +1,14 @@
+<top>
+
+<num> Number: 41
+<title> God forgives David
+
+<desc> Description: Discuss  a story that talks about how God forgave David
+<narr> Narrative: 
+A relevant document should talk about how God forgave David.
+
+<query> Citumbuka: chiuta kugowokela davide
+<query> Chichewa: mulungu kukhululukila davide
+<query> English: God forgives David
+ 
+</top>

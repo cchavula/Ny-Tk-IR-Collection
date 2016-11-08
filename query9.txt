@@ -1,0 +1,15 @@
+<top>
+
+<num> Number: 9
+<title>
+
+<desc> Description: 
+problems that come because of using social networks
+<narr> Narrative: 
+A relevant document should discuss the challenges or problems of using social networks services
+
+<query> Citumbuka:  viheni vyama social network
+<query> Chichewa: zoyipa za ma social networks
+<query> English: consequences of social networking
+ 
+</top>

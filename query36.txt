@@ -1,0 +1,15 @@
+<top>
+
+<num> Number: 1 
+<title> Trusting the bible
+
+<desc> Description: discuss why should people trust the bible.
+<narr> Narrative: 
+A relevant document must talk about why people should trust the bible.
+<query> Citumbuka: kugomezga bayibolo
+<query> Chichewa: kukhulupilila bayibulo
+<query> English: trusting the bible
+ 
+</top>
+
+

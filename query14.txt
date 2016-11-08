@@ -1,0 +1,15 @@
+<top>
+
+<num> Number: 14
+<title> How to run a group 
+
+<desc> Description: 
+Identify methods for running a group 
+<narr> Narrative: 
+A relevant document should have guidelines for running a group
+
+<query> Citumbuka: vakwenera kulondezga pakwendesya gulu
+<query> Chichewa: :Ndondomeko zoyendetsera gulu
+<query> English:  Guidelines for group leadership
+ 
+</top>

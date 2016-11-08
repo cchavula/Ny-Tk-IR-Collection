@@ -1,0 +1,17 @@
+<top>
+
+<num> Number: 47
+<title> building a house
+
+<desc> Description: Discussing about buiding a house
+<narr> Narrative: 
+A relevant document must provide information about anything concerning buiding a house, e.g., materials etc.
+
+<query> Citumbuka: kuzenga nyumba
+<query> Chichewa: kumanga nyumba
+<query> English: building a house
+ 
+</top>
+
+		
+

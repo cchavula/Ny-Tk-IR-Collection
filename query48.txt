@@ -1,0 +1,14 @@
+<top>
+
+<num> Number: 48
+<title> suicide among the youth
+
+<desc> Description: discuss issues about suicide among the youth
+<narr> Narrative: 
+A relevant document must discuss anything concerning suicide among the youth. 
+
+<query> Citumbuka:kujikoma wawukilano 
+<query> Chichewa:kuzipha achinyamata
+<query> English:suicide among the youth
+ 
+</top>

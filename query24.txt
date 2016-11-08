@@ -1,0 +1,14 @@
+<top>
+
+<num> Number: 24
+<title> King David and Bathsheba
+
+<desc> Description:Discuss about the relationship between king David and Bathsheba
+<narr> Narrative: 
+A relevant document should talk about relationship between king David and Bathsheba .
+
+<query> Citumbuka:themba davide na Bathsheba 
+<query> Chichewa: mfumu davide ndi Bathsheba
+<query> English: King David and Bathsheba
+ 
+</top>

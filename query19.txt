@@ -1,0 +1,15 @@
+<top>
+
+<num> Number: 19 
+<title> consequences of divorce
+
+<desc> Description: 
+Identify issues that may rise up after divorce.
+
+<narr> Narrative: 
+A relevant document must discuss issues that may come up after divorce. 
+
+<query> Citumbuka: vyakulondezya kumala kwa nthengwa
+<query> Chichewa: zosatira za kutha kwa banja	
+<query> English: consequences of divorce 
+</top>

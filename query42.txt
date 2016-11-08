@@ -1,0 +1,16 @@
+<top>
+
+<num> Number: 42
+<title>uncontrolled anger and its consequences
+
+<desc> Description: 
+describe how the consequences of uncontrolled anger
+
+<narr> Narrative: 
+A relevant document should talk about consequences of uncontrolled anger .
+
+<query> Citumbuka: masuzgo ghakwiza na ukali wambula kujikola
+<query> Chichewa: mavuto akudza ndi kupsa mtima mosaziletsa
+<query> English: problems with uncontrolled anger
+ 
+</top>

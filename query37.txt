@@ -1,0 +1,15 @@
+<top>
+
+<num> Number: 37 
+<title> poverty and having many children
+
+<desc> Description: Identify reasons why poor people have many children
+
+<narr> Narrative: 
+A relevant document must talk about the link between poverty and having many children.
+
+<query> Citumbuka:wanthu wakavu kuwa na wana wanandi
+<query> Chichewa:anthu osauka kukhala ndi ana ambiri
+<query> English: poor people having many children
+ 
+</top

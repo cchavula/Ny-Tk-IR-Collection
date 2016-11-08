@@ -1,0 +1,14 @@
+<top>
+
+<num> Number: 16
+<title> Making clothing or fabrics
+
+<desc> Description: Identify methods and tools for making clothing
+<narr> Narrative: 
+A relevant document should discuss anything related to methods or tools or materials for making any type of fabric.
+
+<query> Citumbuka: kupanga salu
+<query> Chichewa: kupanga nsalu
+<query> English:  making clothing
+ 
+</top>

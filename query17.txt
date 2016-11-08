@@ -1,0 +1,14 @@
+<top>
+
+<num> Number: 17
+<title> Chicken diseases
+
+<desc> Description: Identify or talk about diseases that affect chicken.
+<narr> Narrative: 
+A relevant document should discuss diseases that affect chicken. A document that talks about diseases affecting animals other than chicken is irrelevant.
+
+<query> Citumbuka: matenda gha nkhuku
+<query> Chichewa: matenda a nkhuku
+<query> English:  chicken diseases
+ 
+</top>
