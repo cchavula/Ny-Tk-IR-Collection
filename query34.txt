@@ -3,11 +3,11 @@
 <num> Number: 34
 <title> kasamalidwe ka munthu wodwala
 
-<desc> Description: discuss ways of taking care of a sicj person
+<desc> Description: discuss ways of taking care of a sick person
 <narr> Narrative: 
 A relevant document should discuss ways of taking care of a sick person.
 
-<query> Citumbuka: kasamaliro ka muluwali
+<query> Citumbuka: kasamaliro ka mulwali
 <query> Chichewa: kasamalidwe ka wodwala
 <query> English: taking care of a sick
  
