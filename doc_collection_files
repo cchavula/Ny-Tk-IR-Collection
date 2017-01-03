@@ -1,0 +1,27 @@
+The documents used to build the collection in the study were obtained from the web. No other source was used. If you are interested to use the documents please visit the urls below to access the information. Some of the documents used are in the public domain, however some require rights to distribute. The majority of the documents used in the collection were pdf documents which were created for distribution and written using formal language. Additionally, some of the documents were very big and treating them as a single document would have resulted in having a few documents being relevant to the query. Because of this, a single page of the documents was treated as a document. In the pre-processing step for the documents, each document was broken down into individual pages and converted to text files and cleaned to remove bad characters. However, judgements were done on pdf documents to provide context for the text. 
+
+Chichewa Document Sources URL
+Total number of documents before preprocessing step
+https://ny.wikipedia.org/wiki/Main_Page
+https://ny.wikipedia.org/wiki/Tsamba_Lalikulu
+https://www.k4health.org/ (Chichewa resources including posters, booklets and books - K4Health Malawi Toolkits)
+http://hesperian.org/ permissions@hesperian.org
+http://hesperian.org/books-and-resources/resources-in-chichewa
+https://www.jw.org/ny/mabuku/ (magazines oldest available to February,2016, Bronchures, bibles and books)
+ww.unicode.org/udhr/d/udhr_nya_chechewa.html
+http://www.smallscalelivestock.org/resources/ziwetozathanzi.pdf
+http://www.smallscalelivestock.org/downloads.html
+http://d1.islamhouse.com/data/ny/ih_books/single/ny_Quraan_Yolemekezeka_Chichewa.pdf
+
+
+Citumbuka Document Sources URL
+https://tum.wikipedia.org/wiki/Main\_Page
+https://www.k4health.org/ (Tumbuka resources available (10 posters)- K4Health Malawi Toolkits)
+https://www.jw.org/tum/publications/ (oldest magazines available to February,2016, Bronchures, bibles and books)
+
+
+English Document Sources URL
+http://hesperian.org/ (http://hesperian.org/books-and-resources -(where there is no dentist and where there is no doctor))
+https://www.k4health.org/ (English resources including posters, booklets and books that are translation equivalents of Chichewa -- K4Health Malawi Toolkits)
+https://www.jw.org/en/publications/ (oldest magazines available to February,2016, Bronchures, bibles and books)
+http://www.smallscalelivestock.org/downloads.html
