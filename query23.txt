@@ -1,7 +1,7 @@
 <top>
 
 <num> Number: 23
-<title>Barries to girl education
+<title>Barriers to girl education
 
 <desc> Description: discuss barriers to education for girls
 <narr> Narrative: 
